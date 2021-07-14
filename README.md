@@ -19,6 +19,7 @@
 
 # 🔗 Join Channel
 <b><i><h4> Join Telegram Channel: [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts) </h4></b></i>
+<br> </br>
 
 # 🥇 Features
 * Basic system info
@@ -33,7 +34,17 @@
 * Serverless Stealer ***[Get rid of RDP/VPS]***
 * FTP Logs ***[Only FileZilla]***
 * PDF-EXE With Source ***[When executed: Opens Your PDF file in front]*** 🔥
+<br> </br>
 
 # 🤯 Beta Version : Upcoming update/release
 * Victim's System Shell ***[Using C2-Post Exploitation Framework]***
+<br> </br>
 
+# 🧐 Proof
+* Purple fox plus stealer youtube: 
+<br> </br>
+
+# 🛡 Fully Undetectable 
+* 100% FUD ***[Runtime and scantime]***
+
+<img src="https://antiscan.me/images/result/GBSa0sk0Vei9.png">
