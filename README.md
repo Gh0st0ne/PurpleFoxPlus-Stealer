@@ -19,7 +19,7 @@
 <br> </br>
 
 # 🔗 Join Channel
-<b><i><h4> Join Telegram Channel: [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts) </h4></b></i>
+<b><i><h4> Join Telegram Channel: [![Telegram](https://img.shields.io/badge/Telegram-@purplefoxplus-2CA5E0?logo=telegram)](https://t.me/purplefoxplus) </h4></b></i>
 <br> </br>
 
 # 🥇 Features
