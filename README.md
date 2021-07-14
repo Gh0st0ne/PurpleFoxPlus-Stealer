@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCKF4IhTDSy-cmGVPHlhl50A" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" alt="https://www.youtube.com/channel/uckf4ihtdsy-cmgvphlhl50a" height="30" width="40" /></a>
 <a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/MJjwryfX9" height="30" width="40" /></a>
+<a href="https://t.me/purplefoxplus" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" alt="https://t.me/purplefoxplus" height="30" width="40" /></a>
 </p>
 
 
