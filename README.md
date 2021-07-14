@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/61627070/125651277-f98d066f-ff05-4d8b-bc71-7874e99bcc22.png">
 </p>
 <b><h2 align="center"> Purple Fox Plus : Stealer</h2></b>
-<i><h5 align="center"> Supports All Latest Browsers </h5></i>
+<i><h5 align="center"> Supports All Latest Browsers. Serverless Stealer. </h5></i>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -30,7 +30,7 @@
 * Stored Credit/Debit Cards
 * AutoFill Data
 * Discord Tokens
-* Persistent & Stable with startup ***[Send logs a day]***
+* Persistent & Stable ***[Send logs daily]***
 * Serverless Stealer ***[Get rid of RDP/VPS]***
 * FTP Logs ***[Only FileZilla]***
 * PDF-EXE With Source ***[When executed: Opens Your PDF file in front]*** 🔥
@@ -40,11 +40,11 @@
 * Victim's System Shell ***[Using C2-Post Exploitation Framework]***
 <br> </br>
 
-# 🧐 Proof
+# 🧐 How It Works
 * Purple fox plus stealer youtube: 
 <br> </br>
 
-# 🛡 Fully Undetectable 
+# ✔ Fully Undetectable 
 * 100% FUD ***[Runtime and scantime]***
 
 <img src="https://antiscan.me/images/result/GBSa0sk0Vei9.png">
