@@ -16,7 +16,7 @@
 # ❗ Must Read
 <b> Join telegram channel to buy the License.</b> <br></br>
 <i>Serverless License : Provides hustle free expirence 🔥</i><br></br>
-<i> I have tried to make a serverless and hustle free approach with this stealer, easy to carry. You get two builds with your custom configs.</i>
+<i> I have tried to make a serverless and hassle-free approach with this stealer, easy to carry. You get two builds with your custom configs.</i>
 <br> </br>
 
 # 🔗 Join Channel
