@@ -34,6 +34,7 @@
 * Discord Tokens
 * Persistent & Stable ***[Send logs daily]***
 * Serverless Stealer ***[Get rid of RDP/VPS]***
+* Real-Time Incoming Notification
 * FTP Logs ***[Only FileZilla]***
 * PDF-EXE With Source ***[When executed: Opens Your PDF file in front]*** 🔥
 <br> </br>
