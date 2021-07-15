@@ -45,7 +45,7 @@
 
 # 🧐 How It Works
 * Purple fox plus stealer ***[ Video On Telegram Channel ]*** : https://t.me/purplefoxplus
-* Youtube: Coming Soon
+* Youtube: https://youtu.be/exODs5Iy3vY
 <br> </br>
 
 # ✔ Fully Undetectable 
