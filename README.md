@@ -25,6 +25,7 @@
 
 # 🥇 Features
 * Basic system info
+* All Saved WiFi Passwords
 * Installed Applications
 * Telegram sessions ***[Supports both: UWP & Non-UWP Telegram]***
 * All Chromium based browsers ***[Passwords + Cookies]***
